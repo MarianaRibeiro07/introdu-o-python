@@ -46,21 +46,21 @@ python main.py
 
 Atv 1
 <p align="center">
-  <img src="img/atividade1.png" alt="Atividade 1 - Cartão de Apresentação" width="300">
+  <img src="img/atividade1.jpeg" alt="atividade 1 - Cartão de Apresentação" width="300">
 </p>
 
 
 Atv2
 <p align="center">
-  <img src="img/atividade2.png" alt="Atividade 2 - Perfil" width="850">
+  <img src="img/atividade2.jpeg" alt="atividade 2 - Perfil" width="850">
 </p>
 
 
 Atv3
-<p align="center"> <img src="img/atividade3.png" alt="Atividade 3 - Formulário de Cadastro" width="950"> </p>
+<p align="center"> <img src="img/atividade3.jpeg" alt="Atividade 3 - Formulário de Cadastro" width="950"> </p>
 
 
 Atv4
-<p align="center"> <img src="img/atividade4.png" alt="Atividade 4 - Mercadinho" width="950"> </p>
+<p align="center"> <img src="img/atividade4.jpeg" alt="Atividade 4 - Mercadinho" width="950"> </p>
 
 
