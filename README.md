@@ -52,15 +52,15 @@ Atv 1
 
 Atv2
 <p align="center">
-  <img src="img/atividade2.jpeg" alt="atividade 2 - Perfil" width="850">
+  <img src="img/atividade2.jpeg" alt="atividade 2 - Perfil" width="300">
 </p>
 
 
 Atv3
-<p align="center"> <img src="img/atividade3.jpeg" alt="Atividade 3 - Formulário de Cadastro" width="950"> </p>
+<p align="center"> <img src="img/atividade3.jpeg" alt="Atividade 3 - Formulário de Cadastro" width="300"> </p>
 
 
 Atv4
-<p align="center"> <img src="img/atividade4.jpeg" alt="Atividade 4 - Mercadinho" width="950"> </p>
+<p align="center"> <img src="img/atividade4.jpeg" alt="Atividade 4 - Mercadinho" width="300"> </p>
 
 
